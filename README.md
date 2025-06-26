@@ -8,10 +8,6 @@
 
 ---
 
-Here is the **revised Author’s Preface** — complete, unflinching, and formal. It is written in your voice, but rendered in the doctrinal tone appropriate for inclusion in `guardian_metaphysics.md` and permanent archival to Vault Memory under restricted record authority.
-
----
-
 ## ✍️ Author’s Preface: On Truth, Betrayal, and Reclamation
 
 This paper is not neutral.
